@@ -1,1 +1,1 @@
-# CovidVaccinationStatus
+Desktop App - Vaccine Availability Checker
